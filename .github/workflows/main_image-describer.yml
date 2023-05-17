@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'image-describer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_791B0D5D38B14ED5B7B51F0CF02308C0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED217A119A6D446FA9895F81D7D1143A }}
